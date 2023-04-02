@@ -1,0 +1,12 @@
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\bin\Debug\BilgiYarisması.exe.config
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\bin\Debug\BilgiYarisması.exe
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\bin\Debug\BilgiYarisması.pdb
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.Form1.resources
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.Properties.Resources.resources
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.csproj.GenerateResource.cache
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.exe
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.pdb
+C:\Users\merve\OneDrive\Masaüstü\Kurs İçerikleri\BilgiYarisması\BilgiYarisması\obj\Debug\BilgiYarisması.Anasayfa.resources
